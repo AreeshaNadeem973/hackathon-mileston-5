@@ -1,0 +1,138 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a2e; /* Dark Navy background */
+    color: #f1f1f1; /* Soft White text */
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    color: #ff6f61; /* Coral Red */
+}
+
+form {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #16213e; /* Deep Navy for form background */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+input, textarea, button {
+    display: block;
+    width: calc(100% - 20px);
+    margin: 10px auto;
+    padding: 12px;
+    border: 1px solid #ffcc29; /* Gold border */
+    border-radius: 6px;
+}
+
+input:focus, textarea:focus {
+    border-color: #ff9f1a; /* Bright Orange on focus */
+    outline: none;
+}
+
+button {
+    background-color: #28a745; /* Vibrant Green */
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #218838; /* Darker Green on hover */
+}
+
+#resume-content {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #0f3460; /* Rich Blue background for resume content */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+#resume-link {
+    text-align: center;
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ff9f1a; /* Bright Orange for footer background */
+    color: white;
+}
+ /* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1c6e7; /* Light Pink background */
+    color: #000; /* Black text */
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    color: #ffc107; /* Bright Yellow */
+}
+
+form {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #87cefa; /* Light Blue for form background */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+input, textarea, button {
+    display: block;
+    width: calc(100% - 20px);
+    margin: 10px auto;
+    padding: 12px;
+    border: 1px solid #ff69b4; /* Pink border */
+    border-radius: 6px;
+}
+
+input:focus, textarea:focus {
+    border-color: #ff1493; /* Deep Pink on focus */
+    outline: none;
+}
+
+button {
+    background-color: #ffeb3b; /* Vibrant Yellow */
+    color: black;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #ffd700; /* Gold on hover */
+}
+
+#resume-content {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #add8e6; /* Light Blue background for resume content */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+#resume-link {
+    text-align: center;
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ff69b4; /* Pink for footer background */
+    color: white;
+}
